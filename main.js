@@ -6,7 +6,6 @@ const age = 19;
 
 if (age >= 18 && registeredEarly === tgit rue) {
   raceNumber += 1000;
-  console.log('Estoy aqui')
 }
 
 if (age >= 18 && registeredEarly === true) {
